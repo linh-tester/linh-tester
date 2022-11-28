@@ -9,7 +9,7 @@ linh-tester/linh-tester is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 
-[![Stats](https://github-readme-stats.vercel.app/api?username=linh-tester&show_icons=true&theme=dracula&count_private=true)](https://github.com/anuraghazra/github-readme-stats) [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=linh-tester&theme=dracula&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
+[![Stats](https://github-readme-stats.vercel.app/api?username=linh-tester&show_icons=true&theme=dracula&count_private=true)](https://github.com/anuraghazra/github-readme-stats) [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=linh-tester&date_format=j%2Fn%5B%2FY%5D&theme=dracula)](https://git.io/streak-stats)
 
 
 **Languages and Tools:**  
